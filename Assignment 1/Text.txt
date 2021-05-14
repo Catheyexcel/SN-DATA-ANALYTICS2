@@ -1,0 +1,14 @@
+Task 1 (Steps taken to create a repository)
+Step 1: I downloaded GITHUB and ANACONDA
+Step 2: I created a repository and named it SN DATA ANALYTICS2
+Step 3: I downloaded GITBASH and synced the changes made so far on the repository using GIT CMD
+Step 4: I pushed an empty note notebook (notepad file) to the repository.
+Step 5: I synced the changes made using GIT CMD 
+Step 6: I edited the empty notepad with answers to the assignment given.
+
+Task 2: Problems Encountered
+1. Understanding how to use GITHUB and GITBASH was a bit of an issue for me being that I have no prior knowledge on how to use both applications
+
+Task 3: Solutions
+1. I found that understanding how to use all applications come with constant practice.
+(Reference w3schools.com, Scholar network videos posted to slack)
